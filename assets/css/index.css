@@ -1,0 +1,193 @@
+.mnblock
+{
+    padding: 3em 3em 3em 3em;
+    background-color: #A86E00;
+    position: relative;
+	z-index: -1;
+}
+
+.mn
+{
+	margin: 2em 2em 2em 2em;
+	padding: 1em 1em 1em 1em;
+	width: 80px;
+	height: 30px;
+}
+
+#mnphoto
+{
+	position: absolute;
+    float: left;
+	left: 3.5%; 
+	top: 1%;
+	width: 5em;
+	height: 7em;
+    z-index: 1;
+}
+.bt
+{
+	background-color: ;
+	border: 2em;
+}
+
+.inside
+{
+	width: 100%;
+	height: 80em;
+	background-color: #ABABAB;
+}
+
+.left
+{
+	position: absolute;
+	left: 10%;
+	width: 35%;
+	height: 40em;
+	background-color: #59FFFF;
+}
+
+.leftarea
+{
+	
+}
+
+.right
+{
+	position: absolute;
+	left: 55%;
+	width: 35%;
+	height: 40em;
+	background-color: #59FF59;
+}
+
+.right
+{
+    
+}
+
+.foot
+{
+	clear: both;
+	background-color: black;
+	width: 100%;
+	height: 3em;
+}
+
+.line
+{
+	clear: both;
+	background-color: black;
+	width: 100%;
+	height: 1em;
+}
+
+.cutfour
+{
+	width: 100%;
+	height: 90em;
+	background-color: #ABABAB;
+}
+
+.one
+{
+	position: absolute;
+	left: 4%;
+	width: 20%;
+	height: 90em;
+}
+
+.onephoto
+{
+	position: absolute;
+	left: 4%;
+	width: 225px;
+	height: 375px;
+}
+
+.onearea
+{
+	position: absolute;
+	top: 30em;
+	left: 4%;
+	width: 88%;
+	height: 50em;
+	background-color: white;
+}
+
+.two
+{
+	position: absolute;
+	left: 28%;
+	width: 20%;
+	height: 90em;
+}
+
+.twophoto
+{
+	position: absolute;
+	left: 4%;
+	width: 225px;
+	height: 375px;
+}
+
+.twoarea
+{
+	position: absolute;
+	top: 30em;
+	left: 4%;
+	width: 88%;
+	height: 50em;
+	background-color: white;
+}
+
+.three
+{
+	position: absolute;
+	left: 52%;
+	width: 20%;
+	height: 90em;
+}
+
+.threearea
+{
+	position: absolute;
+	top: 30em;
+	left: 4%;
+	width: 88%;
+	height: 50em;
+	background-color: white;
+}
+
+.threephoto
+{
+	position: absolute;
+	left: 4%;
+	width: 225px;
+	height: 375px;
+}
+
+.four
+{
+	position: absolute;
+	left: 76%;
+	width: 20%;
+	height: 90em;
+}
+
+.fourphoto
+{
+	position: absolute;
+	left: 4%;
+	width: 225px;
+	height: 375px;
+}
+
+.fourarea
+{
+	position: absolute;
+	top: 30em;
+	left: 4%;
+	width: 88%;
+	height: 50em;
+	background-color: white;
+}
